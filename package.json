@@ -1,5 +1,5 @@
 {
-  "name": "react-native-map-clustering-labmob",
+  "name": "labmob-react-native-map-clustering",
   "version": "3.1.2",
   "description": "Map clustering both for Android and iOS",
   "main": "index.js",
@@ -19,7 +19,7 @@
     "map",
     "clustering"
   ],
-  "author": "SerhatDev",
+  "author": "Serhat.Dev",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/SerhatDev/react-native-map-clustering/issues"
