@@ -91,9 +91,4 @@ export default App;
 | **renderCluster**                           | Function              | undefined                                    | Enables you to render custom cluster with custom styles and logic.                                                                                                                                                              |
 | **spiderLineColor**                           | String              | #FF0000                                    | Enables you to set color of spider line which joins spiral location with center location.                                                                                                                                                              |
 
-## Support
-
-Feel free to create issues and pull requests. I will try to provide as much support as possible over Github. In case of questions or problems, contact me at:
-[t.przybyl@venits.com](t.przybyl@venits.com)
-
 ### Happy Coding 💖
